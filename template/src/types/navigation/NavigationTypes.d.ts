@@ -1,0 +1,2 @@
+type AuthNavigator = {};
+type AppNavigator = {};
